@@ -1,1 +1,5 @@
 jest_order/node_modules
+react_test/node_modules
+error_test/node_modules
+
+.DS_Store
